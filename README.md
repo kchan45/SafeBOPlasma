@@ -3,13 +3,16 @@
 
 *Note: This repository is still undergoing verification and reproducibility tests*
 
-*Note: The below are to be added upon publication and release of the proceedings online*
-Please view our full paper in the 62nd IEEE Conference on Decision and Control (CDC 2023) Proceedings [link]()
+Please view our full paper in the 62nd IEEE Conference on Decision and Control (CDC 2023) Proceedings [link](https://doi.org/10.1109/CDC49753.2023.10384190)
 
 If you find this repository or our work helpful, please cite as:
 ``` bibtex
 \inproceedings{chan2023sebo,
-
+  author={Chan, Kimberly J and Paulson, Joel A and Mesbah, Ali},
+  booktitle={In Proceedings of the 62nd IEEE Conference on Decision and Control},
+  pages={4106--4111},
+  year={2023},
+  organization={IEEE}
 }
 ```
 
